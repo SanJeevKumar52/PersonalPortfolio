@@ -3,11 +3,11 @@
 :root {
     --color-body: #b6cbce;
     --color-heading: #000000;
-    --color-base: brown;
-    --color-base2: #4f1616;
+    --color-base: rgba(68, 17, 17, 0.365);
+    --color-base2: rgba(108, 32, 183, 0.623);
     --color-brand: #bcc1cb;
     --color-brand2: #deff58;
-    --sidbar-width: 240px;
+    --sidbar-width: 350px;
     --font-base: "Bai Jamjuree";
 }
 
@@ -213,3 +213,10 @@ button {
     cursor: pointer;
   }
   
+  #home {
+    /* Set the background image and other background properties */
+    background-image: url('/assets/images/20230506_174347.jpg');
+    background-size: cover;
+    background-position: center;
+    /* You can add additional background properties as needed */
+  }
