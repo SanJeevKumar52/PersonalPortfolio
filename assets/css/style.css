@@ -4,7 +4,7 @@
     --color-body: #b6cbce;
     --color-heading: #000000;
     --color-base: rgba(68, 17, 17, 0.365);
-    --color-base2: rgba(108, 32, 183, 0.623);
+    --color-base2:rgb(124,22,34);
     --color-brand: #bcc1cb;
     --color-brand2: #deff58;
     --sidbar-width: 350px;
@@ -185,9 +185,6 @@ img {
 }
 
 /* SOCIAL ICONS */
-.social-icons {
-
-}
 
 .social-icons a {
     width: 40px;
