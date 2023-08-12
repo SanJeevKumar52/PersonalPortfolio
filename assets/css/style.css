@@ -3,7 +3,7 @@
 :root {
     --color-body: #b6cbce;
     --color-heading: #000000;
-    --color-base: rgba(68, 17, 17, 0.365);
+    --color-base: rgba(52, 19, 19, 0.365);
     --color-base2:rgb(124,22,34);
     --color-brand: #bcc1cb;
     --color-brand2: #deff58;
@@ -211,9 +211,9 @@ button {
   }
   
   #home {
-    /* Set the background image and other background properties */
+   
     background-image: url('/assets/images/20230506_174347.jpg');
     background-size: cover;
     background-position: center;
-    /* You can add additional background properties as needed */
+   
   }
